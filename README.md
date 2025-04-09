@@ -22,8 +22,6 @@ Subdomain finder
 - `HackerTarget`
 
 ✅ Live Domain Detection using multi-threading  
-✅ ASCII Art + Dynamic Vishnu Mantras or Vedic Shlokas 🕉️  
-✅ Colored CLI Output for Readability  
 ✅ Easy to Use — Just plug and play!  
 
 ---
