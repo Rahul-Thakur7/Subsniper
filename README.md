@@ -1,7 +1,7 @@
 # Subsniper
 Subdomain finder
 
-<img width="684" alt="image" src="https://github.com/user-attachments/assets/2e2424b1-99df-46c3-a0cf-deeaf28e6116" />
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/2e2424b1-99df-46c3-a0cf-deeaf28e6116" /></br>
 # 🕷️ SubSniper v2.0 - Advanced Passive Subdomain Finder 🔍
 
 ![SubSniper Banner](https://img.shields.io/badge/Made%20With-%E2%9C%A8%20Python%203-blue?style=for-the-badge)
