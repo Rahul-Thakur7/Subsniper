@@ -8,8 +8,8 @@ Subdomain finder
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Version](https://img.shields.io/badge/SubSniper-v2.0-red?style=for-the-badge)
 
-> 🚩 A powerful passive subdomain enumeration tool with **live domain detection**, **threading**, and a spiritual touch of **Sanatan Dharma**.  
-> ✨ Inspired by the cosmic wisdom of Lord Vishnu, SubSniper empowers your recon with speed, depth, and blessings.
+> 🚩 SubSniper – A powerful passive subdomain enumerator with **live detection**, **threading**.
+> 🔱 Blessed by Lord Vishnu, it empowers your recon with speed, depth, and divine precision.
 
 ---
 
